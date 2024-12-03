@@ -1,0 +1,48 @@
+{
+    "name": "Aplicaciones web progresivas",
+    "short-name": "Alma Jimenez",
+    "description": "Práctica de la asignatura de aplicaciones web",
+    "background-color": "#FFF",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-Es",
+    "icons": [
+        {
+            "src": "Favi/Favicon-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "Favi/Favicon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "Favi/Favicon-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "Favi/Favicon-128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "Favi/Favicon-64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "Favi/Favicon-32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "Favi/Favicon-16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        }
+    ]
+}
